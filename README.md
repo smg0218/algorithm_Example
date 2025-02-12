@@ -3,8 +3,11 @@
 <br>
 <p>${\bf{\color{#DD6565}모든\ 파일은\ 반드시\ UTF-8로\ 업로드해주세요!}}$</p>
 config 정보
+<br>
 time_limit: 1(단위:초)
+<br>
 memory_limit: 128(단위:MB)
+<br><br>
 
 파일구조
 ```
