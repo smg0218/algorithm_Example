@@ -2,20 +2,19 @@
 알고리즘 업로드 형식 예제
 <br>
 <p>${\bf{\color{#DD6565}모든\ 파일은\ 반드시\ UTF-8로\ 업로드해주세요!}}$</p>
+
+```
 config.json 정보
-<br>
-problem_title: {문제 제목}
-<br>
-problem_name: {관리용 문제 제목}(관리자만 보기 가능)
-<br>
-time_limit: 1(단위:초)
-<br>
-memory_limit: 128(단위:MB)
-<br><br>
+{
+    "problem_title": {문제 제목},
+    "problem_name": {관리용 문제 제목}(관리자만 보기 가능),
+    "time_limit": 1(단위:초),
+    "memory_limit": 128(단위:MB)
+}
+
 description.md 정보
-<br>
 {문제 지문}
-<br><br>
+```
 
 파일구조
 ```
