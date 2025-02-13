@@ -8,8 +8,8 @@ config.json 정보
 {
     "problem_title": {문제 제목},
     "problem_name": {관리용 문제 제목}(관리자만 보기 가능),
-    "time_limit": 1(단위:초),
-    "memory_limit": 128(단위:MB)
+    "time_limit": {단위:초},
+    "memory_limit": {단위:MB}
 }
 
 description.md 정보
