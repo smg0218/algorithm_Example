@@ -1,7 +1,6 @@
 # algorithm_Example
 알고리즘 업로드 형식 예제
 <br>
-<p>${\bf{\color{#DD6565}모든\ 파일은\ 반드시\ ANSI(기본\ 인코딩)로\ 저장해주세요!}}$</p>
 
 ```
 config.json 정보
