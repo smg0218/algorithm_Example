@@ -1,6 +1,5 @@
 # algorithm_Example
 알고리즘 문제 업로드 파일 형식 예제
-<span style="color:orange;">Word up</span>
 <br><br>
 in과 out파일의 경우 ${\large\textsf{\color{#f03c15}첫글자는 반드시 숫자}}$로 입력해주셔야 합니다.
 <br>
